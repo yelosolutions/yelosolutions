@@ -7,13 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/iam_rono_" target="blank"><img src="https://img.shields.io/twitter/follow/iam_rono_?logo=twitter&style=for-the-badge" alt="iam_rono_" /></a> </p>
 
-- 🔭 I’m currently working on [Admin-Dashboard](https://github.com/yelosolutions/Admin-Dashboard.git)
 
 - 🌱 I’m currently learning **Javascript**
 
 - 📝 I regularly write articles on [https://medium.com/@ronokamau](https://medium.com/@ronokamau)
 
-- 💬 Ask me about **Python, DevOps, Bash, Javascript and C**
+- 💬 Ask me about **Python, Bash, Javascript and C**
 
 - 📫 How to reach me **ronokamau@gmail.com**
 
